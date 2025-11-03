@@ -1,0 +1,38 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Visual Studio files
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.ncb
+*.opendb
+*.sdf
+*.aps
+
+# Build artefacts
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.log
+*.tlog
+
+# Autres fichiers temporaires
+*.cache
+*.tmp
+*.bak
+
+# Packages
+packages/
+*.nuget.props
+*.nuget.targets
